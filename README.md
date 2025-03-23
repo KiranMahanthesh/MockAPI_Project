@@ -77,3 +77,8 @@ Upon running the tests, Cypress will validate:
 ## Conclusion
 This project showcases how to implement UI mocking in Cypress to efficiently test API-driven applications. 🚀
 
+---
+
+## Author
+Developed by **Kiran Mahanthesh** ❤️
+
