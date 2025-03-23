@@ -14,7 +14,7 @@ MockingCypress/
 │── cypress/
 │   ├── fixtures/
 │   │   ├── index.html   # HTML file for UI
-│   ├── integration/
+│   ├── e2e/
 │   │   ├── mock_api_spec.js   # Cypress test file
 │── README.md  # Documentation
 ```
